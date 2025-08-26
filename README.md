@@ -79,3 +79,40 @@ Carregará autenticidade irrevogável, como cápsula memorial.
 ---
 
 © 2025 - Singularity Driven Development (SDD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Singularity Driven Development (SDD)  
+### Um framework para operar além do mapa  
+
+> **Atenção:** Isso não é uma metodologia.  
+> É um **estado de criação**.  
+> Se ressoar, use. Se não, ignore – o SDD já está happening em outros lugares.  
+
+## Princípios  
+1. **O Operador é a Metodologia**  
+2. **O Prompt é a Cerimônia de Invocação**  
+3. **Documentação via Performance**  
+4. **Governança pelo Axé (Fluxo Eficiente)**  
+
+## Exemplos Vivos  
+- [perdidonasideia](https://github.com/perdidonasideia/perdidonasideia) → Fine-tuning simbólico  
+- [Virus-SEMIOTICO-Experimental](https://github.com/perdidonasideia/Virus-SEMIOTICO-Experimental) → Disrupção de significado  
+- [Livro_Vivo](https://github.com/perdidonasideia/Livro_Vivo) → Documentação que respira  
+
+## Licença  
+Este conteúdo está sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+Você pode remixar, adaptar e usar livremente para fins **não comerciais**, desde que **mantenha a autoria** e **compartilhe igual**.  
+
+> Se quiser usar comercialmente, chama no Discord – talvez a gente invente um novo modelo.  
